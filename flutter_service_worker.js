@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 'use strict';
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {".git/COMMIT_EDITMSG": "a483d42e9a6a53bd84ed3877ec4c4615",
+=======
+'use strict';
+const MANIFEST = 'flutter-app-manifest';
+const TEMP = 'flutter-temp-cache';
+const CACHE_NAME = 'flutter-app-cache';
+
+const RESOURCES = {".git/COMMIT_EDITMSG": "1a4a097e17ceee03ae7a8df9253ac51a",
+>>>>>>> c57cace5f8a857acf84ff022d5e682c8fefb64e8
 ".git/config": "84892afdf833d98df54fc4a7e5f55e98",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/HEAD": "5ab7a4355e4c959b0c5c008f202f51ec",
@@ -21,10 +30,17 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a483d42e9a6a53bd84ed3877ec4c4615",
 ".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
 ".git/hooks/sendemail-validate.sample": "4d67df3a8d5c98cb8565c07e42be0b04",
 ".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
+<<<<<<< HEAD
 ".git/index": "8e6c0f69e66446118eb36ae618adb067",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/logs/HEAD": "f55d721893f6c9de073aae0f1a24883b",
 ".git/logs/refs/heads/gh-pages": "f55d721893f6c9de073aae0f1a24883b",
+=======
+".git/index": "f60d5228ab0ebc468e77855a7a2412d4",
+".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+".git/logs/HEAD": "4f24df7e80438a6b5f8101f916c47994",
+".git/logs/refs/heads/gh-pages": "4f24df7e80438a6b5f8101f916c47994",
+>>>>>>> c57cace5f8a857acf84ff022d5e682c8fefb64e8
 ".git/logs/refs/remotes/origin/gh-pages": "fc1d6034c39ab47f64b14ae016fd6c8f",
 ".git/objects/02/d351b1a2a6e930f1b160526514bf5c555972a7": "e332bdc0d9cd7f32ed1a4f66f40c12f3",
 ".git/objects/03/eaddffb9c0e55fb7b5f9b378d9134d8d75dd37": "87850ce0a3dd72f458581004b58ac0d6",
@@ -110,7 +126,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a483d42e9a6a53bd84ed3877ec4c4615",
 ".git/objects/f7/abc85ab38ac9934811d0339e7958c06cca791d": "a14ec05cd3ed793c0d47729437027a91",
 ".git/objects/f7/d343cfecbdf3cb2babaf67b262cafb1d5ca840": "4b02b48e10601878664508b8a3a18624",
 ".git/objects/f9/2a1ac72b4a612010c8bb60fd71e45fdb771262": "edd78aec5f4e4f6af6a1cb23e5839df3",
+<<<<<<< HEAD
 ".git/refs/heads/gh-pages": "c77b36d3ee3634624f31859428219460",
+=======
+".git/refs/heads/gh-pages": "acede84fb5b30442a5929f73a2d5bb86",
+>>>>>>> c57cace5f8a857acf84ff022d5e682c8fefb64e8
 ".git/refs/remotes/origin/gh-pages": "acede84fb5b30442a5929f73a2d5bb86",
 "assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
@@ -131,14 +151,24 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a483d42e9a6a53bd84ed3877ec4c4615",
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "1a262f7b67015aebaef51f06756a0d22",
+=======
+"flutter_bootstrap.js": "211e233e1d15c84d0c6487cb4e3fe53a",
+>>>>>>> c57cace5f8a857acf84ff022d5e682c8fefb64e8
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "183202114080e01522e8fb8c6196ebdc",
 "/": "183202114080e01522e8fb8c6196ebdc",
 "main.dart.js": "1dffefc2138cc0b550379ac0924301b1",
+=======
+"index.html": "5ce8c33c6c24a8c82a6beb027437baf0",
+"/": "5ce8c33c6c24a8c82a6beb027437baf0",
+"main.dart.js": "70c81daa99395ac34c2beadd780ce707",
+>>>>>>> c57cace5f8a857acf84ff022d5e682c8fefb64e8
 "manifest.json": "c6a5bac39038de17a592a97491a82ea3",
 "version.json": "2315cc9136ce3d6abb36ee75810ecab3"};
 // The application shell files that are downloaded before a service worker can
